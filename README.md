@@ -5,10 +5,10 @@
 
 一.系统指令：
 
-<img src="https://github.com/gongzhaoxu/fos_public/blob/master/README/SYSTEM.png" alt="SYSTEM"  />
+<img src="https://cdn.jsdelivr.net/gh/gongzhaoxu/fos_public@master/README/SYSTEM.png" alt="SYSTEM"  />
 二.目录指令：
 
-<img src="https://github.com/gongzhaoxu/fos_public/blob/master/README/CATALOG.png" alt="CATALOG" />
+<img src="https://cdn.jsdelivr.net/gh/gongzhaoxu/fos_public@master/README/CATALOG.png" alt="CATALOG" />
 三.文件指令：
 
-<img src="https://github.com/gongzhaoxu/fos_public/blob/master/README/FILE.png" alt="FILE"  />
+<img src="https://cdn.jsdelivr.net/gh/gongzhaoxu/fos_public@master/README/FILE.png" alt="FILE"  />
